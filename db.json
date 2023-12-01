@@ -1,7 +1,5 @@
 {
-  "results": [
-  
-    ],
+  "results": [],
   "events": [
     {
       "id": 1,
@@ -42,6 +40,188 @@
       "location": "Mumbai",
       "category": "Music",
       "price": 400
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "brand": "Brand 1",
+      "price": 10,
+      "quantity": 2,
+      "total": 20,
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "brand": "Brand 2",
+      "price": 5,
+      "quantity": 3,
+      "total": 15,
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "name": "Apples",
+      "brand": "Fresh Farms",
+      "price": 2,
+      "quantity": 5,
+      "total": 10,
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "name": "Milk",
+      "brand": "Dairy Delight",
+      "price": 3,
+      "quantity": 2,
+      "total": 6,
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "name": "Bread",
+      "brand": "Bakery Bliss",
+      "price": 2,
+      "quantity": 1,
+      "total": 2,
+      "status": "pending"
+    },
+    {
+      "id": 6,
+      "name": "Bananas",
+      "brand": "Tropical Treats",
+      "price": 1,
+      "quantity": 6,
+      "total": 6,
+      "status": "pending"
+    },
+    {
+      "id": 7,
+      "name": "Eggs",
+      "brand": "Farm Fresh",
+      "price": 4,
+      "quantity": 1,
+      "total": 4,
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "name": "Cheese",
+      "brand": "Dairy Delight",
+      "price": 5,
+      "quantity": 1,
+      "total": 5,
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "name": "Tomatoes",
+      "brand": "Garden Goodness",
+      "price": 3,
+      "quantity": 3,
+      "total": 9,
+      "status": "pending"
+    },
+    {
+      "id": 10,
+      "name": "Chicken",
+      "brand": "Poultry Palace",
+      "price": 8,
+      "quantity": 2,
+      "total": 16,
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "name": "Potatoes",
+      "brand": "Farm Fresh",
+      "price": 2,
+      "quantity": 4,
+      "total": 8,
+      "status": "pending"
+    },
+    {
+      "id": 12,
+      "name": "Orange Juice",
+      "brand": "Citrus Squeeze",
+      "price": 4,
+      "quantity": 1,
+      "total": 4,
+      "status": "pending"
+    },
+    {
+      "id": 13,
+      "name": "Cereal",
+      "brand": "Breakfast Delight",
+      "price": 3,
+      "quantity": 2,
+      "total": 6,
+      "status": "pending"
+    },
+    {
+      "id": 14,
+      "name": "Pasta",
+      "brand": "Italian Elegance",
+      "price": 2,
+      "quantity": 3,
+      "total": 6,
+      "status": "pending"
+    },
+    {
+      "id": 15,
+      "name": "Yogurt",
+      "brand": "Dairy Delight",
+      "price": 1,
+      "quantity": 4,
+      "total": 4,
+      "status": "pending"
+    },
+    {
+      "id": 16,
+      "name": "Carrots",
+      "brand": "Garden Goodness",
+      "price": 1,
+      "quantity": 5,
+      "total": 5,
+      "status": "pending"
+    },
+    {
+      "id": 17,
+      "name": "Salmon",
+      "brand": "Seafood Sensation",
+      "price": 12,
+      "quantity": 1,
+      "total": 12,
+      "status": "pending"
+    },
+    {
+      "id": 18,
+      "name": "Broccoli",
+      "brand": "Garden Goodness",
+      "price": 2,
+      "quantity": 2,
+      "total": 4,
+      "status": "pending"
+    },
+    {
+      "id": 19,
+      "name": "Ice Cream",
+      "brand": "Sweet Treats",
+      "price": 6,
+      "quantity": 1,
+      "total": 6,
+      "status": "pending"
+    },
+    {
+      "id": 20,
+      "name": "Coffee",
+      "brand": "Morning Boost",
+      "price": 5,
+      "quantity": 1,
+      "total": 5,
+      "status": "pending"
     }
   ]
 }
